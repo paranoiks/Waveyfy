@@ -1,0 +1,13 @@
+﻿Build started 6/11/2015 2:13:04 PM.
+     1>Project "E:\Programming\University\Waveyfy\DirectSoundExample\DirectSoundExample\DirectSoundExample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt DirectSoundExample.cpp
+         DirectSoundExample.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Programming\University\Waveyfy\DirectSoundExample\x64\Debug\DirectSoundExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Programming\University\Waveyfy\DirectSoundExample\x64\Debug\DirectSoundExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Programming\University\Waveyfy\DirectSoundExample\x64\Debug\DirectSoundExample.lib" /MACHINE:X64 x64\Debug\DirectSoundExample.obj
+         DirectSoundExample.vcxproj -> E:\Programming\University\Waveyfy\DirectSoundExample\x64\Debug\DirectSoundExample.exe
+     1>Done Building Project "E:\Programming\University\Waveyfy\DirectSoundExample\DirectSoundExample\DirectSoundExample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.92

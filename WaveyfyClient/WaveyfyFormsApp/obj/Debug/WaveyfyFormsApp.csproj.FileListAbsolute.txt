@@ -1,0 +1,9 @@
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\bin\Debug\WaveyfyFormsApp.exe.config
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\bin\Debug\WaveyfyFormsApp.exe
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\bin\Debug\WaveyfyFormsApp.pdb
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.csprojResolveAssemblyReference.cache
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.Properties.Resources.resources
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.csproj.GenerateResource.Cache
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.exe
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.pdb
+E:\Programming\University\WaveyfyClient\WaveyfyFormsApp\obj\Debug\WaveyfyFormsApp.Form1.resources
